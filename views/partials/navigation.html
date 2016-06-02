@@ -1,0 +1,29 @@
+<nav class="navbar navbar-default navbar-static-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed pull-right" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <a class="navbar-brand" href="#"><img class="CiscoLogo" src="images/cisco-logo.svg" alt="Cisco" /></a> </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li><a class="filter nav-category" ng-click="searchProjects = ''">All</a></li>
+        <li><a class="filter nav-category" ng-click="searchProjects = 'open'">Open</a></li>
+        <li><a class="filter nav-category" ng-click="searchProjects = 'ydk'">YDK</a></li>
+        <li><a class="filter nav-category">Category 44</a></li>
+        <li><a class="filter nav-category">Category 5</a></li>
+        <li><a class="filter nav-category">Category 6</a></li>
+      </ul>
+      <div class="nav navbar-nav navbar-right" ng-controller="MainCtrl">
+        <div class="ssBtns">
+          <button type="button" class="btn btn-default btn-xs rndBtn" id="sortNewest"><i class="fa fa-clock-o"></i></button>
+          <button type="button" class="btn btn-default btn-xs rndBtn" id="sortAsc" ng-click="sort('title')"><i class="fa fa-sort-alpha-asc"></i></button>
+        </div>
+      </div>
+      <form class="navbar-form navbar-right searchBar" role="search" onsubmit="return false">
+        <div class="form-group">
+          <input type="text" class="form-control" id="searchTxt" placeholder="Search Projects" ng-model="searchProjects">
+        </div>
+      </form>
+    </div>
+    <!--/.nav-collapse -->
+  </div>
+</nav>

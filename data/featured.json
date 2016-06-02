@@ -1,0 +1,26 @@
+[
+  {
+    "title": "spark-java-sdk",
+    "desc": "Java library for consuming RESTful APIs for Cisco Spark",
+    "githubUrl": "https://github.com/ciscospark/spark-java-sdk",
+    "forks": 4,
+    "stars": 8,
+    "org": "ciscospark"
+  },
+  {
+    "title": "nova",
+    "desc": "OpenStack Compute (Nova)",
+    "githubUrl": "https://github.com/CiscoSystems/nova",
+    "forks": 12,
+    "stars": 4,
+    "org": "CiscoSystems"
+  },
+  {
+    "title": "mantl",
+    "desc": "Mantl is a modern platform for rapidly deploying globally distributed services",
+    "githubUrl": "https://github.com/CiscoCloud/mantl",
+    "forks": 282,
+    "stars": 2127,
+    "org": "CiscoCloud"
+  }
+]

@@ -1,0 +1,57 @@
+
+
+  <!-- <div class="row">
+    <div class="container">
+      <h3>All Repos</a>
+    </div>
+
+  </div> -->
+  <nav class="navbar navbar-default navbar-static-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed pull-right" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <!-- <a class="navbar-brand" href="#"><img class="CiscoLogo" src="images/cisco-logo.svg" alt="Cisco" /></a>  -->
+        <div class="navbar-brand" ng-show="!searchProjects">All repos </div>
+        <div class="navbar-brand" ng-show="searchProjects">Searching: {{searchProjects}}</div>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <!-- <ul class="nav navbar-nav">
+          <li><a class="filter nav-category" ng-click="searchProjects = ''">All Projects</a></li>
+          <li><a class="filter nav-category" ng-click="searchProjects = 'ydk'">Networking</a></li>
+          <li><a class="filter nav-category" ng-click="searchProjects = 'open'">Datacenter</a></li>
+          <li><a class="filter nav-category" ng-click="searchProjects = 'spark'">Spark</a></li>
+        </ul> -->
+        <div class="nav navbar-nav navbar-right" >
+          <div class="ssBtns">
+            <!-- <button type="button" class="btn btn-default btn-xs rndBtn" id="sortNewest"><i class="fa fa-clock-o"></i></button> -->
+            <!-- <button type="button" class="btn btn-default btn-xs rndBtn" id="sortAsc" ng-click="sort('title')"><i class="fa fa-sort-alpha-asc"></i></button> -->
+            <button type="button" class="btn btn-default btn-xs rndBtn" id="sortAsc" ng-click="reset()">Reset</button>
+          </div>
+        </div>
+        <form class="navbar-form navbar-right searchBar" role="search" onsubmit="return false">
+          <div class="form-group">
+            <input type="text" class="form-control" id="searchTxt" placeholder="Search Projects" ng-model="searchProjects">
+          </div>
+        </form>
+      </div>
+      <!--/.nav-collapse -->
+    </div>
+  </nav>
+  <div id="Container" class="row Container" ng-controller="MainCtrl">
+    <!-- Centered preloader SVG
+    <div class="row text-center"> <img id="preloader" alt="Loading ..." src="img/oval.svg" /></div>-->
+    <div class="col-sm-6 col-md-4" dir-paginate="project in projects | orderBy:predicate:reverse | filter:searchProjects | itemsPerPage: itemsPerPage ">
+      <div class="pListItem">
+        <h2><a href="{{project.githubUrl}}" target="_blank">{{project.title | cut:false:18:' ...'}}</a></h2>
+        <p ng-show="project.desc">{{project.desc | cut:true:200:' ...'}}</p>
+        <span class="meta">
+          <span class="stars"><i class="fa fa-star"></i>{{project.stars}}</span> <span class="forks"><i class="fa fa-code-fork"></i>{{project.forks}}</span>
+          <span class="pull-right"><a href="{{project.orgUrl}}">{{project.org}}</a></span>
+        </span>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+  <dir-pagination-controls></dir-pagination-controls>
+
+  </div>
