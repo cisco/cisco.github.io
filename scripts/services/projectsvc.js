@@ -17,6 +17,9 @@ angular.module('ciscogithubioApp')
       },
       getStats : function() {
         return $http.get( HOST + '/ghpages/stats.json');
+      },
+      getFeatured : function() {
+        return $http.get( HOST + '/ghpages/featured.json');
       }
     }
   });

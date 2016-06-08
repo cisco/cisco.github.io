@@ -16,7 +16,7 @@ angular.module('ciscogithubioApp')
     $scope.predicate = 'title';
     $scope.reverse = false;
     
-    $http.get("data/featured.json").then(function(response) {
+    ProjectSvc.getFeatured().then(function(response) {
       carouselItems = response.data;
 
       //$log.info(carouselItems);
