@@ -84,6 +84,6 @@ Development
 License
 =======
 
-(Cisco License)[LICENSE]
+[Cisco License](LICENSE)
 
 Thanks!
