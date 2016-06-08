@@ -1,0 +1,561 @@
+@font-face {
+  font-family: CiscoSansExtraLight;
+  src: url("../styles/fonts/CiscoSansTTExtraLight.eot");
+  src: url("../styles/fonts/CiscoSansTTExtraLight.eot?#iefix") format("embedded-opentype"), url("../styles/fonts/CiscoSansTTExtraLight.woff") format("woff");
+}
+@font-face {
+  font-family: CiscoSansReg;
+  src: url("../styles/fonts/CiscoSansTTRegular.eot");
+  src: url("../styles/fonts/CiscoSansTTRegular.eot?#iefix") format("embedded-opentype"), url("../styles/fonts/CiscoSansTTRegular.woff") format("woff");
+}
+@font-face {
+  font-family: CiscoSansBold;
+  src: url("../styles/fonts/CiscoSansTTBold.eot");
+  src: url("../styles/fonts/CiscoSansTTBold.eot?#iefix") format("embedded-opentype"), url("../styles/fonts/CiscoSansTTBold.woff") format("woff");
+}
+@font-face {
+  font-family: CiscoSansHeavy;
+  src: url("../styles/fonts/CiscoSansTTHeavy.eot");
+  src: url("../styles/fonts/CiscoSansTTHeavy.eot?#iefix") format("embedded-opentype"), url("../styles/fonts/CiscoSansTTHeavy.woff") format("woff");
+}
+
+@font-face {
+  font-family: CiscoSansThin;
+  src: url("../styles/fonts/CiscoSansTTThin.eot");
+  src: url("../styles/fonts/CiscoSansTTThin.eot?#iefix") format("embedded-opentype"), url("../styles/fonts/CiscoSansTTThin.woff") format("woff");
+}
+
+
+/*!
+ Temp Placholder BGs
+ */
+
+.DkGray2{
+	background-color: #58585b;
+}
+
+.MedGray2{
+	background-color: #9e9ea2;
+}
+
+.PaleGray1{
+	background-color: #e8ebf1;
+}
+
+.CiscoBlue{
+	background-color: #049fd9;
+}
+
+.StatusBlue{
+	background-color: #64bbe3;
+}
+
+.SageGreen{
+	background-color: #abc233;
+}
+
+/*!
+ Type Styling
+ */
+h1, .h1 {
+	font-size: 36px;
+}
+h2, .h2 {
+	font-size: 30px;
+}
+h3, .h3 {
+	font-size: 24px;
+}
+h4, .h4 {
+	font-size: 18px;
+}
+h5, .h5 {
+	font-size: 14px;
+}
+h6, .h6 {
+	font-size: 12px;
+}
+p {
+	margin: 0 0 10px;
+}
+
+/*!
+ Button Styling
+ */
+
+.btn {
+	display: inline-block;
+	padding: 6px 12px;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 1.42857143;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	-ms-touch-action: manipulation;
+	touch-action: manipulation;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	background-image: none;
+	border: 1px solid transparent;
+	border-radius: 4px;
+}
+.btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn.active.focus {
+	outline: thin dotted;
+	outline: 5px auto -webkit-focus-ring-color;
+	outline-offset: -2px;
+}
+.btn:hover, .btn:focus, .btn.focus {
+	color: #333;
+	text-decoration: none;
+}
+.btn:active, .btn.active {
+	background-image: none;
+	outline: 0;
+	-webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+	box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+}
+.btn.disabled, .btn[disabled], fieldset[disabled] .btn {
+	cursor: not-allowed;
+	filter: alpha(opacity=65);
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	opacity: .65;
+}
+a.btn.disabled, fieldset[disabled] a.btn {
+	pointer-events: none;
+}
+.btn-default {
+	color: #333;
+	background-color: #fff;
+	border-color: #ccc;
+}
+.btn-default:focus, .btn-default.focus {
+	color: #333;
+	background-color: #e6e6e6;
+	border-color: #8c8c8c;
+}
+.btn-default:hover {
+	color: #333;
+	background-color: #e6e6e6;
+	border-color: #adadad;
+}
+.btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default {
+	color: #333;
+	background-color: #e6e6e6;
+	border-color: #adadad;
+}
+.btn-default:active:hover, .btn-default.active:hover, .open > .dropdown-toggle.btn-default:hover, .btn-default:active:focus, .btn-default.active:focus, .open > .dropdown-toggle.btn-default:focus, .btn-default:active.focus, .btn-default.active.focus, .open > .dropdown-toggle.btn-default.focus {
+	color: #333;
+	background-color: #d4d4d4;
+	border-color: #8c8c8c;
+}
+.btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default {
+	background-image: none;
+}
+.btn-default.disabled:hover, .btn-default[disabled]:hover, fieldset[disabled] .btn-default:hover, .btn-default.disabled:focus, .btn-default[disabled]:focus, fieldset[disabled] .btn-default:focus, .btn-default.disabled.focus, .btn-default[disabled].focus, fieldset[disabled] .btn-default.focus {
+	background-color: #fff;
+	border-color: #ccc;
+}
+
+
+.rndBtn{
+	padding: 5px 9px;
+	border-radius: 30px;
+	border:none;
+	background-color:#9e9ea2;
+	color:#FFFFFF;
+	font-size:14px;
+	margin-left:10px;
+}
+
+.rndBtn:hover, .rndBtn:active, .rndBtn:focus {
+	background-color:#ABC233;
+	color:#FFFFFF;
+}
+
+/*!
+ Nav Bar Styling
+ */
+
+ .navbar {
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: none;
+}
+
+.navbar-default {
+	background-color: #FFFFFF;
+	border-color: #e7e7e7;
+}
+.navbar-default .navbar-brand {
+	color: #58595b;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+	color: #5e5e5e;
+	background-color: transparent;
+}
+.navbar-default .navbar-text {
+	color: #58595b;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #58595b;
+	padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	color: #333;
+	background-color: transparent;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	color: #555;
+	background-color: #e7e7e7;
+}
+.navbar-default .navbar-nav > .disabled > a, .navbar-default .navbar-nav > .disabled > a:hover, .navbar-default .navbar-nav > .disabled > a:focus {
+	color: #ccc;
+	background-color: transparent;
+}
+.navbar-default .navbar-toggle {
+	border-color: #ddd;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background-color: #ddd;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #888;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	border-color: #e7e7e7;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+	color: #555;
+	background-color: #e7e7e7;
+}
+
+@media (max-width: 767px) {
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+	color: #777;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+	color: #333;
+	background-color: transparent;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a,  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+	color: #555;
+	background-color: #e7e7e7;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,  .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,  .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:focus {
+	color: #ccc;
+	background-color: transparent;
+}
+}
+.navbar-default .navbar-link {
+	color: #777;
+}
+.navbar-default .navbar-link:hover {
+	color: #333;
+}
+.navbar-default .btn-link {
+	color: #777;
+}
+.navbar-default .btn-link:hover, .navbar-default .btn-link:focus {
+	color: #333;
+}
+.navbar-default .btn-link[disabled]:hover, fieldset[disabled] .navbar-default .btn-link:hover, .navbar-default .btn-link[disabled]:focus, fieldset[disabled] .navbar-default .btn-link:focus {
+	color: #ccc;
+}
+.navbar-brand {
+	height:60px;
+    width: 300px;
+    padding: 25px 0px 0px 0px;
+}
+.CiscoLogo{
+	height:100%;
+}
+
+.CiscoOnGH {
+  color: #FFFFFF;
+}
+.nav-category {
+	font-family: "CiscoSansReg", sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	color: #58585b;
+	cursor: pointer;
+}
+.nav-category:hover {
+	color: #58585b;
+	background-color: #FFFFFF!important;
+	border-radius: 3px
+}
+.ssBtns{
+	padding-top: 15px;
+	padding-right: 15px;
+}
+
+.mainHeader{
+	background-color: #049fd9;
+	margin-bottom: 20px;
+}
+.mainHeader h1{
+	font-family: "CiscoSansExtraLight", sans-serif;
+	font-size:90px;
+	color: #FFFFFF;
+	padding-top: 80px;
+}
+
+.pListItem{
+	margin-top: 30px;
+	padding-bottom: 10px;
+	border-bottom: #9e9ea2 solid 1px;
+  min-height: 150px;
+}
+
+.pListItem h2{
+	color:#58585b;
+}
+.pListItem p{
+	color:#58585b;
+}
+
+.repo {
+  float: right;
+}
+
+.forks, .stars {
+	font-family: "CiscoSansReg", sans-serif;
+	font-size:12px;
+	color: #9e9ea2;
+	margin-right: 10px;
+}
+
+.forks i, .stars i{
+	font-size:14px;
+	padding-right: 5px;
+}
+
+.header-forks, .header-stars {
+	font-family: "CiscoSansReg", sans-serif;
+	font-size:12px;
+	color: #FFFFFF;
+	margin-right: 10px;
+}
+
+.header-forks i, .header-stars i{
+	font-size:14px;
+	padding-right: 5px;
+}
+
+.meta {
+  position:absolute;
+  bottom: 0;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: left;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-left: 15px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.searchBar{
+	margin-top: 16px;
+
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+
+    height: 30px;
+    padding: 6px 12px;
+    font-size: 12px;
+
+    line-height: 1.42857143;
+    color: #58585b;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+.form-control:focus {
+  border-color: #66afe9;
+  outline: 0;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+/*!
+ Link Styling
+ */
+
+a {
+	color: #049fd9;
+	text-decoration: none;
+}
+a:focus {
+	color: #049fd9;
+	text-decoration: none;
+}
+a:active {
+	color: #049fd9;
+	text-decoration: none;
+}
+
+.header-anchor, a:focus {
+  color: #FFFFFF
+}
+
+.header-anchor, a:hover {
+  text-decoration: none;
+}
+
+.carousel-center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+
+.slick-dots {
+  padding-bottom: 30px;
+}
+
+
+/*! XS Mobile */
+@media(max-width:767px){
+	.mainHeader h1{
+		font-size:40px;
+		color: #FFFFFF;
+		padding-top: 20px;
+	}
+	.navbar{
+		margin-bottom: 10px;
+	}
+}
+
+/*! SM */
+@media (min-width: 768px) {
+	.navbar-form {
+		padding-right: 0px;
+	}
+	.searchBar{
+		margin-top:0px;
+	}
+
+	.mainHeader h1{
+		font-size:65px;
+		color: #FFFFFF;
+		padding-top: 30px;
+	}
+	.navbar{
+		margin-bottom: 10px;
+	}
+
+}
+/*! MD */
+@media (min-width: 992px) {
+	.navbar-form {
+		padding-right: 12px;
+	}
+	.searchBar{
+		margin-top: 16px;
+
+	}
+	.mainHeader h1{
+		font-size:90px;
+		padding-top: 80px;
+	}
+	.navbar{
+		margin-bottom: 20px;
+	}
+
+}
+/*! LG */
+@media (min-width: 1200px) {
+
+
+}
+
+/*
+ * Footer
+ */
+
+.footer {
+	text-align: left;
+	padding: 20px 0 0 0;
+	margin-top: 70px;
+	background-color: #333;
+}
+
+.footer.hidden {
+	position: absolute;
+	bottom: -100px;
+}
+
+.footer a, .footer p {
+	font-size: 12px;
+	font-size: 1.2rem;
+	color: #868686;
+	text-decoration: none;
+}
+
+.footer a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+.footer .bottomNavBar div.col-sm-3 {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.footer .bottomNavBar p {
+	font-size: 12px;
+	font-size: 1.2rem;
+	margin-bottom: 0;
+}
+
+.footer .bottomNavBar ul {
+	list-style: none;
+	padding-top: 4px;
+	padding-left: 0;
+	margin-bottom: 24px;
+}
+
+.footer .bottomNavBar ul li a {
+	font-size: 12px;
+	font-size: 1.2rem;
+	line-height: 20px;
+	position: relative;
+	display: block;
+}
+
+.footer .copyright {
+	font-size: 12px;
+	font-size: 1.2rem;
+	color: #888;
+	text-align: left;
+	margin-bottom: 3px;
+	display: inline-block;
+}
+
+.footer .devnet-image {
+  vertical-align: middle;
+  padding-bottom: 10px;
+}
