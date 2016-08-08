@@ -10,16 +10,16 @@
 angular.module('ciscogithubioApp')
   .service('ProjectSvc', function ($http) {
     // AngularJS will instantiate a singleton by calling "new" on this function
-    // var HOST = 'http://ec2-52-87-200-36.compute-1.amazonaws.com';
+    var HOST = 'https://gh.ciscodevnetcloud.com';
     return {
       query : function() {
-        return $http.get( './data/repos.json');
+        return $http.get( HOST + '/ghpages/repos.json');
       },
       getStats : function() {
-        return $http.get( './data/stats.json');
+        return $http.get( HOST + '/ghpages/stats.json');
       },
       getFeatured : function() {
-        return $http.get( './data/featured.json');
+        return $http.get( HOST + '/ghpages/featured.json');
       }
-    }
+    };
   });
