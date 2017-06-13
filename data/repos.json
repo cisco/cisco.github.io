@@ -1,1 +1,479 @@
-[{"title":"taxii-log-adapter","desc":"Integration between SIEMs and TAXII services","githubUrl":"https://github.com/CiscoCTA/taxii-log-adapter","forks":0,"stars":4,"org":"CiscoCTA","orgUrl":"https://github.com/CiscoCTA"},{"title":"iosxr-ansible","desc":"IOS-XR Ansible project","githubUrl":"https://github.com/ios-xr/iosxr-ansible","forks":0,"stars":2,"org":"ios-xr","orgUrl":"https://github.com/ios-xr"},{"title":"xrdocs.github.io","desc":"Homepage for xrdocs","githubUrl":"https://github.com/xrdocs/xrdocs.github.io","forks":1,"stars":0,"org":"xrdocs","orgUrl":"https://github.com/xrdocs"},{"title":"application-hosting","desc":"Blog posts, Tutorials and Techdocs on  Cisco IOS-XR's application hosting infrastructure.","githubUrl":"https://github.com/xrdocs/application-hosting","forks":6,"stars":0,"org":"xrdocs","orgUrl":"https://github.com/xrdocs"},{"title":"ucsmsdk","desc":"Python SDK for Cisco UCSM","githubUrl":"https://github.com/CiscoUcs/ucsmsdk","forks":10,"stars":16,"org":"CiscoUcs","orgUrl":"https://github.com/CiscoUcs"},{"title":"imcsdk","desc":"Python SDK for Cisco IMC","githubUrl":"https://github.com/CiscoUcs/imcsdk","forks":5,"stars":1,"org":"CiscoUcs","orgUrl":"https://github.com/CiscoUcs"},{"title":"ucscentralsdk","desc":"**NOT READY YET** - Python SDK for Ucs Central","githubUrl":"https://github.com/CiscoUcs/ucscentralsdk","forks":2,"stars":0,"org":"CiscoUcs","orgUrl":"https://github.com/CiscoUcs"},{"title":"SalesForceBundle","desc":"Bundle to Connect to Salesforce and pull down data","githubUrl":"https://github.com/CiscoVE/SalesForceBundle","forks":0,"stars":1,"org":"CiscoVE","orgUrl":"https://github.com/CiscoVE"},{"title":"SparkBundle","desc":"Cisco Spark API Symfony2 Vendor Bundle","githubUrl":"https://github.com/CiscoVE/SparkBundle","forks":0,"stars":0,"org":"CiscoVE","orgUrl":"https://github.com/CiscoVE"},{"title":"go-zeusclient","desc":"Go client for Zeus","githubUrl":"https://github.com/CiscoZeus/go-zeusclient","forks":3,"stars":2,"org":"CiscoZeus","orgUrl":"https://github.com/CiscoZeus"},{"title":"UCSDScripts","desc":"UCS Director example scripts from the UK&I Cisco data centre & cloud specialist team.","githubUrl":"https://github.com/CiscoUKIDCDev/UCSDScripts","forks":1,"stars":0,"org":"CiscoUKIDCDev","orgUrl":"https://github.com/CiscoUKIDCDev"},{"title":"HP3ParPlugin","desc":"HP 3PAR plugin for Cisco UCS Director","githubUrl":"https://github.com/CiscoUKIDCDev/HP3ParPlugin","forks":0,"stars":2,"org":"CiscoUKIDCDev","orgUrl":"https://github.com/CiscoUKIDCDev"},{"title":"coding-skills-sample-code","desc":"Sample code for the Cisco DevNet Coding Skills Learning Labs","githubUrl":"https://github.com/CiscoDevNet/coding-skills-sample-code","forks":47,"stars":30,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"yang-explorer","desc":"An open-source Yang Browser and RPC Builder Application","githubUrl":"https://github.com/CiscoDevNet/yang-explorer","forks":11,"stars":37,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"Opendaylight-BGP-Pathman-apps","desc":"BGP and PCEP apps for Opendaylight, with the backend written in Python and the UI in JavaScript for NeXt","githubUrl":"https://github.com/CiscoDevNet/Opendaylight-BGP-Pathman-apps","forks":8,"stars":6,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"flare","desc":"Flare allows users with mobile devices to discover and interact with things in an environment. It combines multiple location technologies with a realtime communications architecture, to enable new kinds of user interactions.","githubUrl":"https://github.com/CiscoDevNet/flare","forks":4,"stars":11,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"apic-em-samples-aradford","desc":"This is a collection of sample scripts and tools for APIC-EM","githubUrl":"https://github.com/CiscoDevNet/apic-em-samples-aradford","forks":2,"stars":6,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"pceof-gui","desc":"GUI of Path Computation Element","githubUrl":"https://github.com/CiscoDevNet/pceof-gui","forks":3,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"ydk-gen","desc":"Extensions to pyang for generating code from yang models.","githubUrl":"https://github.com/CiscoDevNet/ydk-gen","forks":11,"stars":13,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"ydk-py-samples","desc":"Sample apps for YDK-Py","githubUrl":"https://github.com/CiscoDevNet/ydk-py-samples","forks":6,"stars":9,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"apic-em-pnp-config-uploader","desc":"Tool for the  APIC-EM PnP App to add devices and upload their configs","githubUrl":"https://github.com/CiscoDevNet/apic-em-pnp-config-uploader","forks":0,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"NeXt","desc":"Mirror of the OpenDaylight NeXt UI Toolkit gerrit project","githubUrl":"https://github.com/CiscoDevNet/NeXt","forks":2,"stars":6,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"pathman-sr","desc":"Pathman Segment Routing","githubUrl":"https://github.com/CiscoDevNet/pathman-sr","forks":2,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"OneM2MPlugins","desc":"Plugins for the Opendaylight IOTDM oneM2M project","githubUrl":"https://github.com/CiscoDevNet/OneM2MPlugins","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"generator-devnet-learninglabs","desc":"A yeoman generator for Cisco DevNet Learning Labs https://learninglabs.cisco.com","githubUrl":"https://github.com/CiscoDevNet/generator-devnet-learninglabs","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"uniq","desc":"A Python API client library for Cisco's Application Policy Infrastructure Controller Enterprise Module (APIC-EM) Northbound APIs.","githubUrl":"https://github.com/CiscoDevNet/uniq","forks":1,"stars":8,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"netACL","desc":"netACL","githubUrl":"https://github.com/CiscoDevNet/netACL","forks":1,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"coding-series-learning-labs","desc":"Source for the Cisco DevNet Coding series learning labs","githubUrl":"https://github.com/CiscoDevNet/coding-series-learning-labs","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"iv","desc":"Integrity Verification ","githubUrl":"https://github.com/CiscoDevNet/iv","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"openh264","desc":"Open Source H.264 Codec ","githubUrl":"https://github.com/cisco/openh264","forks":776,"stars":2222,"org":"cisco","orgUrl":"https://github.com/cisco"},{"title":"NATTools","desc":"NAT Tools ","githubUrl":"https://github.com/cisco/NATTools","forks":17,"stars":17,"org":"cisco","orgUrl":"https://github.com/cisco"},{"title":"thor","desc":"Thor Video Codec","githubUrl":"https://github.com/cisco/thor","forks":82,"stars":618,"org":"cisco","orgUrl":"https://github.com/cisco"},{"title":"bigmuddy-network-telemetry-stacks","desc":"A batteries-included docker-based collection of demo stacks adapting network streaming telemetry to common consumer formats.","githubUrl":"https://github.com/cisco/bigmuddy-network-telemetry-stacks","forks":5,"stars":9,"org":"cisco","orgUrl":"https://github.com/cisco"},{"title":"logstash-codec-bigmuddy-network-telemetry","desc":"Logstash codec used to receive compressed, JSON encoded network telemetry over TCP and produce logstash events.","githubUrl":"https://github.com/cisco/logstash-codec-bigmuddy-network-telemetry","forks":1,"stars":2,"org":"cisco","orgUrl":"https://github.com/cisco"},{"title":"logstash-output-bigmuddy-network-telemetry-metrics","desc":"Logstash output plugin used to extract time series metrics from network telemetry streams, and post these metrics over HTTP. ","githubUrl":"https://github.com/cisco/logstash-output-bigmuddy-network-telemetry-metrics","forks":1,"stars":3,"org":"cisco","orgUrl":"https://github.com/cisco"},{"title":"senml","desc":"Tool to convert senml between formats and act as gateway server to other services","githubUrl":"https://github.com/cisco/senml","forks":1,"stars":3,"org":"cisco","orgUrl":"https://github.com/cisco"},{"title":"syncodecs","desc":"Synthetic codecs for evaluation of RMCAT work ","githubUrl":"https://github.com/cisco/syncodecs","forks":1,"stars":1,"org":"cisco","orgUrl":"https://github.com/cisco"},{"title":"xr-telemetry-m2m-web","desc":"A small web app to explore the IOS-XR internal data model, for streaming telemetry or other automation uses","githubUrl":"https://github.com/cisco/xr-telemetry-m2m-web","forks":3,"stars":5,"org":"cisco","orgUrl":"https://github.com/cisco"},{"title":"cjose","desc":"C library implementing the Javascript Object Signing and Encryption (JOSE)","githubUrl":"https://github.com/cisco/cjose","forks":5,"stars":5,"org":"cisco","orgUrl":"https://github.com/cisco"},{"title":"ChezScheme","desc":"Chez Scheme ","githubUrl":"https://github.com/cisco/ChezScheme","forks":423,"stars":2619,"org":"cisco","orgUrl":"https://github.com/cisco"},{"title":"cisco.github.io","desc":"Public Github Pages for Cisco ","githubUrl":"https://github.com/cisco/cisco.github.io","forks":0,"stars":0,"org":"cisco","orgUrl":"https://github.com/cisco"},{"title":"mantl","desc":"Mantl is a modern platform for rapidly deploying globally distributed services","githubUrl":"https://github.com/CiscoCloud/mantl","forks":345,"stars":2458,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"haproxy-consul","desc":"Dynamic haproxy configuration using consul","githubUrl":"https://github.com/CiscoCloud/haproxy-consul","forks":55,"stars":107,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"nginx-consul","desc":"nginx configured with consul template","githubUrl":"https://github.com/CiscoCloud/nginx-consul","forks":11,"stars":21,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"docker-consul-template","desc":"Alpine Linux + consul-template Docker container. Use as a base for other containers","githubUrl":"https://github.com/CiscoCloud/docker-consul-template","forks":6,"stars":7,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"marathon-consul","desc":"bridge Marathon information to Consul KV","githubUrl":"https://github.com/CiscoCloud/marathon-consul","forks":21,"stars":69,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"mesos-consul","desc":"Mesos to Consul bridge for service discovery","githubUrl":"https://github.com/CiscoCloud/mesos-consul","forks":69,"stars":273,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"consulkv","desc":"Command line interface to Consul K/V","githubUrl":"https://github.com/CiscoCloud/consulkv","forks":4,"stars":14,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"distributive","desc":"Unit testing for the cloud","githubUrl":"https://github.com/CiscoCloud/distributive","forks":15,"stars":133,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"terraform.py","desc":"Ansible dynamic inventory script for parsing Terraform state files","githubUrl":"https://github.com/CiscoCloud/terraform.py","forks":36,"stars":91,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"consulacl","desc":"Command line interface to Consul ACL endpoint","githubUrl":"https://github.com/CiscoCloud/consulacl","forks":3,"stars":15,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"consul-utils-rpm","desc":"Command line utilities for Consul","githubUrl":"https://github.com/CiscoCloud/consul-utils-rpm","forks":0,"stars":0,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"exhibitor-mesos-framework","desc":"Exhibitor on Apache Mesos for reliably running Zookeeper on Mesos","githubUrl":"https://github.com/CiscoCloud/exhibitor-mesos-framework","forks":10,"stars":20,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"consul-cli","desc":"Command line interface to Consul HTTP API","githubUrl":"https://github.com/CiscoCloud/consul-cli","forks":26,"stars":91,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"kubernetes-ansible","desc":"Install and configure Google Kubernetes on OpenStack","githubUrl":"https://github.com/CiscoCloud/kubernetes-ansible","forks":19,"stars":47,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"mantl-universe","desc":"The Mantl Universe package repository - install Mesos frameworks on Mantl","githubUrl":"https://github.com/CiscoCloud/mantl-universe","forks":9,"stars":9,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"mantl-api","desc":"Mantl API","githubUrl":"https://github.com/CiscoCloud/mantl-api","forks":7,"stars":15,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"mantl-devnet-learninglabs","desc":"Self paced interactive Learning Labs for learninglabs.cisco.com","githubUrl":"https://github.com/CiscoCloud/mantl-devnet-learninglabs","forks":1,"stars":2,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"},{"title":"cognitive","desc":"Machine Learning as a Service","githubUrl":"https://github.com/CiscoSystems/cognitive","forks":6,"stars":20,"org":"CiscoSystems","orgUrl":"https://github.com/CiscoSystems"},{"title":"fabric_enabler","desc":"Nexus Fabric OpenStack Integration","githubUrl":"https://github.com/CiscoSystems/fabric_enabler","forks":0,"stars":1,"org":"CiscoSystems","orgUrl":"https://github.com/CiscoSystems"},{"title":"os-sqe","desc":"OpenStack QA tools","githubUrl":"https://github.com/CiscoSystems/os-sqe","forks":1,"stars":0,"org":"CiscoSystems","orgUrl":"https://github.com/CiscoSystems"}]
+[
+  {
+    "title": "taxii-log-adapter",
+    "desc": "Integration between SIEMs and TAXII services",
+    "githubUrl": "https://github.com/CiscoCTA/taxii-log-adapter",
+    "forks": 1,
+    "stars": 6,
+    "org": "CiscoCTA",
+    "orgUrl": "https://github.com/CiscoCTA"
+  },
+  {
+    "title": "xrdocs.github.io",
+    "desc": "Homepage for xrdocs",
+    "githubUrl": "https://github.com/xrdocs/xrdocs.github.io",
+    "forks": 3,
+    "stars": 3,
+    "org": "xrdocs",
+    "orgUrl": "https://github.com/xrdocs"
+  },
+  {
+    "title": "apphosting-updated",
+    "desc": "Updated apphosting website",
+    "githubUrl": "https://github.com/xrdocs/apphosting-updated",
+    "forks": 0,
+    "stars": 0,
+    "org": "xrdocs",
+    "orgUrl": "https://github.com/xrdocs"
+  },
+  {
+    "title": "trex-stateless-gui",
+    "desc": "TRex stateless GUI ",
+    "githubUrl": "https://github.com/cisco-system-traffic-generator/trex-stateless-gui",
+    "forks": 0,
+    "stars": 8,
+    "org": "cisco-system-traffic-generator",
+    "orgUrl": "https://github.com/cisco-system-traffic-generator"
+  },
+  {
+    "title": "trex-java-sdk",
+    "desc": "Java client SDK API",
+    "githubUrl": "https://github.com/cisco-system-traffic-generator/trex-java-sdk",
+    "forks": 0,
+    "stars": 0,
+    "org": "cisco-system-traffic-generator",
+    "orgUrl": "https://github.com/cisco-system-traffic-generator"
+  },
+  {
+    "title": "Cloud99",
+    "desc": "Framework for Openstack High Availability Testing",
+    "githubUrl": "https://github.com/cisco-oss-eng/Cloud99",
+    "forks": 11,
+    "stars": 20,
+    "org": "cisco-oss-eng",
+    "orgUrl": "https://github.com/cisco-oss-eng"
+  },
+  {
+    "title": "go-zeusclient",
+    "desc": "Go client for Zeus",
+    "githubUrl": "https://github.com/CiscoZeus/go-zeusclient",
+    "forks": 3,
+    "stars": 3,
+    "org": "CiscoZeus",
+    "orgUrl": "https://github.com/CiscoZeus"
+  },
+  {
+    "title": "ruby-zeusclient",
+    "desc": "Ruby Client for Cisco Zeus",
+    "githubUrl": "https://github.com/CiscoZeus/ruby-zeusclient",
+    "forks": 0,
+    "stars": 0,
+    "org": "CiscoZeus",
+    "orgUrl": "https://github.com/CiscoZeus"
+  },
+  {
+    "title": "logstash-output-CiscoZeus",
+    "desc": "LogStash output plugin to Cisco Zeus",
+    "githubUrl": "https://github.com/CiscoZeus/logstash-output-CiscoZeus",
+    "forks": 0,
+    "stars": 0,
+    "org": "CiscoZeus",
+    "orgUrl": "https://github.com/CiscoZeus"
+  },
+  {
+    "title": "ucsmsdk",
+    "desc": "Python SDK for Cisco UCSM",
+    "githubUrl": "https://github.com/CiscoUcs/ucsmsdk",
+    "forks": 22,
+    "stars": 31,
+    "org": "CiscoUcs",
+    "orgUrl": "https://github.com/CiscoUcs"
+  },
+  {
+    "title": "ucscsdk",
+    "desc": "Python SDK for Ucs Central",
+    "githubUrl": "https://github.com/CiscoUcs/ucscsdk",
+    "forks": 7,
+    "stars": 4,
+    "org": "CiscoUcs",
+    "orgUrl": "https://github.com/CiscoUcs"
+  },
+  {
+    "title": "cisco_imc_cookbook",
+    "desc": "Chef Cookbooks for Cisco IMC Standalone servers",
+    "githubUrl": "https://github.com/CiscoUcs/cisco_imc_cookbook",
+    "forks": 1,
+    "stars": 0,
+    "org": "CiscoUcs",
+    "orgUrl": "https://github.com/CiscoUcs"
+  },
+  {
+    "title": "imcsdk-ruby",
+    "desc": "Ruby SDK for Cisco IMC Standalone servers",
+    "githubUrl": "https://github.com/CiscoUcs/imcsdk-ruby",
+    "forks": 1,
+    "stars": 0,
+    "org": "CiscoUcs",
+    "orgUrl": "https://github.com/CiscoUcs"
+  },
+  {
+    "title": "AuditBundle",
+    "desc": "Bundle for Symfony 2 to facilitate auditing",
+    "githubUrl": "https://github.com/CiscoVE/AuditBundle",
+    "forks": 1,
+    "stars": 4,
+    "org": "CiscoVE",
+    "orgUrl": "https://github.com/CiscoVE"
+  },
+  {
+    "title": "VerintBundle",
+    "desc": "Verint EFM (Enterprise Feedback Management) Bundle",
+    "githubUrl": "https://github.com/CiscoVE/VerintBundle",
+    "forks": 0,
+    "stars": 0,
+    "org": "CiscoVE",
+    "orgUrl": "https://github.com/CiscoVE"
+  },
+  {
+    "title": "libsrtp",
+    "desc": "Library for SRTP (Secure Realtime Transport Protocol) ",
+    "githubUrl": "https://github.com/cisco/libsrtp",
+    "forks": 165,
+    "stars": 306,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "openh264",
+    "desc": "Open Source H.264 Codec ",
+    "githubUrl": "https://github.com/cisco/openh264",
+    "forks": 908,
+    "stars": 2579,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "thor",
+    "desc": "Thor Video Codec",
+    "githubUrl": "https://github.com/cisco/thor",
+    "forks": 86,
+    "stars": 645,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "logstash-codec-bigmuddy-network-telemetry",
+    "desc": "Logstash codec used to receive compressed, JSON encoded network telemetry over TCP and produce logstash events.",
+    "githubUrl": "https://github.com/cisco/logstash-codec-bigmuddy-network-telemetry",
+    "forks": 5,
+    "stars": 4,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "syncodecs",
+    "desc": "Synthetic codecs for evaluation of RMCAT work ",
+    "githubUrl": "https://github.com/cisco/syncodecs",
+    "forks": 1,
+    "stars": 1,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "joy",
+    "desc": "A package for capturing and analyzing network flow data and intraflow data, for network research, forensics, and security monitoring.",
+    "githubUrl": "https://github.com/cisco/joy",
+    "forks": 59,
+    "stars": 259,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "cjose",
+    "desc": "C library implementing the Javascript Object Signing and Encryption (JOSE)",
+    "githubUrl": "https://github.com/cisco/cjose",
+    "forks": 16,
+    "stars": 17,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "ChezScheme",
+    "desc": "Chez Scheme ",
+    "githubUrl": "https://github.com/cisco/ChezScheme",
+    "forks": 568,
+    "stars": 3359,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "cisco.github.io",
+    "desc": "Public Github Pages for Cisco ",
+    "githubUrl": "https://github.com/cisco/cisco.github.io",
+    "forks": 6,
+    "stars": 4,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "cisco-yang-puppet-module",
+    "desc": "Puppet module to allow configuration of IOS-XR via YANG",
+    "githubUrl": "https://github.com/cisco/cisco-yang-puppet-module",
+    "forks": 0,
+    "stars": 5,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "libacvp",
+    "desc": "The libacvp library is a client-side implementation of the draft ACVP protocol (github.com/usnistgov/ACVP).",
+    "githubUrl": "https://github.com/cisco/libacvp",
+    "forks": 9,
+    "stars": 8,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "elsy",
+    "desc": "An opinionated, multi-language, build tool based on Docker and Docker Compose",
+    "githubUrl": "https://github.com/cisco/elsy",
+    "forks": 7,
+    "stars": 24,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "bigmuddy-network-telemetry-pipeline",
+    "desc": "bigmuddy-network-telemetry-pipeline",
+    "githubUrl": "https://github.com/cisco/bigmuddy-network-telemetry-pipeline",
+    "forks": 5,
+    "stars": 13,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "anyconnect-kdf",
+    "desc": "Cisco AnyConnect Linux Kernel Module",
+    "githubUrl": "https://github.com/cisco/anyconnect-kdf",
+    "forks": 2,
+    "stars": 0,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "ampnetworkflow",
+    "desc": "Cisco AMP Device Flow Control",
+    "githubUrl": "https://github.com/cisco/ampnetworkflow",
+    "forks": 0,
+    "stars": 0,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "ampfsm",
+    "desc": "Cisco AMP Filesystem Module",
+    "githubUrl": "https://github.com/cisco/ampfsm",
+    "forks": 0,
+    "stars": 0,
+    "org": "cisco",
+    "orgUrl": "https://github.com/cisco"
+  },
+  {
+    "title": "fabric_enabler",
+    "desc": "Nexus Fabric OpenStack Integration",
+    "githubUrl": "https://github.com/CiscoSystems/fabric_enabler",
+    "forks": 1,
+    "stars": 1,
+    "org": "CiscoSystems",
+    "orgUrl": "https://github.com/CiscoSystems"
+  },
+  {
+    "title": "os-sqe",
+    "desc": "OpenStack QA tools",
+    "githubUrl": "https://github.com/CiscoSystems/os-sqe",
+    "forks": 2,
+    "stars": 0,
+    "org": "CiscoSystems",
+    "orgUrl": "https://github.com/CiscoSystems"
+  },
+  {
+    "title": "yang-explorer",
+    "desc": "An open-source Yang Browser and RPC Builder Application",
+    "githubUrl": "https://github.com/CiscoDevNet/yang-explorer",
+    "forks": 32,
+    "stars": 84,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "apic-em-samples-aradford",
+    "desc": "This is a collection of sample scripts and tools for APIC-EM",
+    "githubUrl": "https://github.com/CiscoDevNet/apic-em-samples-aradford",
+    "forks": 21,
+    "stars": 27,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "grpc-getting-started",
+    "desc": "Guide to get started with gRPC in Cisco IOS XR",
+    "githubUrl": "https://github.com/CiscoDevNet/grpc-getting-started",
+    "forks": 3,
+    "stars": 18,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "ydk-gen",
+    "desc": "Generate model-driven APIs from YANG models",
+    "githubUrl": "https://github.com/CiscoDevNet/ydk-gen",
+    "forks": 24,
+    "stars": 38,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "ydk-py-samples",
+    "desc": "Sample apps for YDK-Py",
+    "githubUrl": "https://github.com/CiscoDevNet/ydk-py-samples",
+    "forks": 53,
+    "stars": 42,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "coding-series-learning-labs",
+    "desc": "Source for the Cisco DevNet Coding series learning labs",
+    "githubUrl": "https://github.com/CiscoDevNet/coding-series-learning-labs",
+    "forks": 6,
+    "stars": 2,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "metacloud-learning-labs",
+    "desc": "Metacloud DevNet Learning Labs ",
+    "githubUrl": "https://github.com/CiscoDevNet/metacloud-learning-labs",
+    "forks": 2,
+    "stars": 1,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "iot-freeboard-plugin",
+    "desc": "A basic example of WebSocket plugin to freeboard.io to fetch data from Cisco IOTSP data pipeline.",
+    "githubUrl": "https://github.com/CiscoDevNet/iot-freeboard-plugin",
+    "forks": 5,
+    "stars": 1,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "node-sparkbot",
+    "desc": "a nodejs library to build Spark Bots and experiment Cisco Spark Webhooks",
+    "githubUrl": "https://github.com/CiscoDevNet/node-sparkbot",
+    "forks": 5,
+    "stars": 12,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "ydk-cpp",
+    "desc": "C++ SDK generated from YANG data models.",
+    "githubUrl": "https://github.com/CiscoDevNet/ydk-cpp",
+    "forks": 3,
+    "stars": 2,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "dp-workbench",
+    "desc": "Device Programability Workbench Framework",
+    "githubUrl": "https://github.com/CiscoDevNet/dp-workbench",
+    "forks": 0,
+    "stars": 3,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "nx-telemetry-proto",
+    "desc": "NX-OS Telemetry Proto Files",
+    "githubUrl": "https://github.com/CiscoDevNet/nx-telemetry-proto",
+    "forks": 0,
+    "stars": 1,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "devnet-express-dna-issues",
+    "desc": "Suggested changes to the content of the learning labs for Devnet Express for DNA ",
+    "githubUrl": "https://github.com/CiscoDevNet/devnet-express-dna-issues",
+    "forks": 0,
+    "stars": 3,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "devnet-express-cloud-collab-issues",
+    "desc": "Suggested changes to the content of the learning labs for Devnet Express for Cloud Collab",
+    "githubUrl": "https://github.com/CiscoDevNet/devnet-express-cloud-collab-issues",
+    "forks": 0,
+    "stars": 0,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "NX-SDK",
+    "desc": "NX-OS SDK",
+    "githubUrl": "https://github.com/CiscoDevNet/NX-SDK",
+    "forks": 0,
+    "stars": 1,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "devnetcreate-bot",
+    "desc": "a Cisco Spark bot to guide attendees at DevNetCreate developer conference",
+    "githubUrl": "https://github.com/CiscoDevNet/devnetcreate-bot",
+    "forks": 0,
+    "stars": 1,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "meraki-location-scanning-app",
+    "desc": "Simple Ruby web app that leverages Meraki's location scanning api",
+    "githubUrl": "https://github.com/CiscoDevNet/meraki-location-scanning-app",
+    "forks": 0,
+    "stars": 0,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "verifybiv-tool",
+    "desc": "verifyBIV tool for Boot Integrity Visibility feature",
+    "githubUrl": "https://github.com/CiscoDevNet/verifybiv-tool",
+    "forks": 0,
+    "stars": 0,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "haproxy-consul",
+    "desc": "Dynamic haproxy configuration using consul",
+    "githubUrl": "https://github.com/CiscoCloud/haproxy-consul",
+    "forks": 81,
+    "stars": 141,
+    "org": "CiscoCloud",
+    "orgUrl": "https://github.com/CiscoCloud"
+  },
+  {
+    "title": "mantl-devnet-learninglabs",
+    "desc": "Self paced interactive Learning Labs for learninglabs.cisco.com",
+    "githubUrl": "https://github.com/CiscoCloud/mantl-devnet-learninglabs",
+    "forks": 6,
+    "stars": 4,
+    "org": "CiscoCloud",
+    "orgUrl": "https://github.com/CiscoCloud"
+  }
+]
