@@ -20,7 +20,7 @@ Dont See Your Project Here?
 ===========================
 1. Your project must have a description- please make it clear enough for someone to understand given Cisco's broad product portfolio
 1. Your project must have a LICENSE file.
-2. Your project must have a Readme.md file - please ensure your readme provides enough detials to get a user started with the project or pointed in the right direction quickly and link to other relevant projects, wikis, or public documenation
+2. Your project must have a Readme.md file - please ensure your readme provides enough details to get a user started with the project or pointed in the right direction quickly and link to other relevant projects, wikis, or public documentation
 3. Your project must have activity within the last 90 days
 4. Your project can't be a fork
 5. Your project must be in the list of Cisco Organizations below
