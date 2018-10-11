@@ -16,7 +16,7 @@ How to contribute?
 1. The admins will review your code and may optionally request conformance, functional or other changes. Work with them to resolve any issues.
 1. Upon acceptance, your code will be merged into the master branch and will become available for all.
 
-Dont See Your Project Here?
+Don't See Your Project Here?
 ===========================
 1. Your project must have a description- please make it clear enough for someone to understand given Cisco's broad product portfolio
 1. Your project must have a LICENSE file.
