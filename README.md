@@ -74,6 +74,7 @@ List of Cisco Organizations on GitHub
 - https://github.com/portcullislabs
 - https://github.com/CiscoSystemsInc
 - https://github.com/vrtadmin
+- https://github.com/Cisco-Talos
 
 Development
 ===========
