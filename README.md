@@ -16,11 +16,11 @@ How to contribute?
 1. The admins will review your code and may optionally request conformance, functional or other changes. Work with them to resolve any issues.
 1. Upon acceptance, your code will be merged into the master branch and will become available for all.
 
-Dont See Your Project Here?
+Don't See Your Project Here?
 ===========================
 1. Your project must have a description- please make it clear enough for someone to understand given Cisco's broad product portfolio
 1. Your project must have a LICENSE file.
-2. Your project must have a Readme.md file - please ensure your readme provides enough detials to get a user started with the project or pointed in the right direction quickly and link to other relevant projects, wikis, or public documenation
+2. Your project must have a Readme.md file - please ensure your readme provides enough details to get a user started with the project or pointed in the right direction quickly and link to other relevant projects, wikis, or public documentation
 3. Your project must have activity within the last 90 days
 4. Your project can't be a fork
 5. Your project must be in the list of Cisco Organizations below
@@ -39,7 +39,7 @@ List of Cisco Organizations on GitHub
 - https://github.com/ciscospark
 - https://github.com/datacenter
 - https://github.com/CiscoSystems
-- https://github.com/isco-open-source
+- https://github.com/cisco-open-source
 - https://github.com/CiscoVE
 - https://github.com/CiscoDevNet
 - https://github.com/CiscoUKIDCDev
@@ -70,9 +70,10 @@ List of Cisco Organizations on GitHub
 - https://github.com/CISCO9
 - https://github.com/Cisco001
 - https://github.com/Cisco-DCG-Power
-- https://github.com/Cisco-ccsp
-- https://github.com/CiscoSystemsInc'
 - https://github.com/csap-platform
+- https://github.com/portcullislabs
+- https://github.com/CiscoSystemsInc
+- https://github.com/vrtadmin
 
 Development
 ===========
