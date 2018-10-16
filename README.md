@@ -39,7 +39,7 @@ List of Cisco Organizations on GitHub
 - https://github.com/ciscospark
 - https://github.com/datacenter
 - https://github.com/CiscoSystems
-- https://github.com/isco-open-source
+- https://github.com/cisco-open-source
 - https://github.com/CiscoVE
 - https://github.com/CiscoDevNet
 - https://github.com/CiscoUKIDCDev
@@ -71,6 +71,7 @@ List of Cisco Organizations on GitHub
 - https://github.com/Cisco001
 - https://github.com/Cisco-DCG-Power
 - https://github.com/Cisco-ccsp
+- https://github.com/portcullislabs
 - https://github.com/CiscoSystemsInc
 - https://github.com/vrtadmin
 
