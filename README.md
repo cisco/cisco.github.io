@@ -54,7 +54,6 @@ To add a project to the organizations below please submit a pull request.
 - https://github.com/CiscoUcs
 - https://github.com/csap-platform
 - https://github.com/datacenter
-- https://github.com/vrtadmin <!-- user, not org -->
 
 ### Not recently updated
 
