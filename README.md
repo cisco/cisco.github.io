@@ -7,6 +7,11 @@ Cisco GitHub organization in general.
 - [How to contribute?](#how-to-contribute)
 - [Don't See Your Project Here?](#dont-see-your-project-here)
 - [List of Cisco Organizations on GitHub](#list-of-cisco-organizations-on-github)
+  - [Active](#active)
+  - [Not recently updated](#not-recently-updated)
+  - [Archived](#archived)
+  - [No public repositories](#no-public-repositories)
+  - [Private/deleted/no longer exists](#privatedeletedno-longer-exists)
 - [Development](#development)
 - [License](#license)
 
@@ -35,49 +40,63 @@ To add a project to the organizations below please submit a pull request.
 
 ## List of Cisco Organizations on GitHub
 
+### Active
+
 - https://github.com/Cisco
-- https://github.com/Cisco-china
+- https://github.com/Cisco-system-traffic-generator
+- https://github.com/Cisco-Talos
+- https://github.com/CiscoCloud
+- https://github.com/CiscoCXSecurity
+- https://github.com/CiscoDevNet
+- https://github.com/CiscoIOx
+- https://github.com/ciscospark <!-- now https://github.com/webex -->
+- https://github.com/CiscoSystems
+- https://github.com/CiscoUcs
+- https://github.com/csap-platform
+- https://github.com/datacenter
+- https://github.com/vrtadmin <!-- user, not org -->
+
+### Not recently updated
+
 - https://github.com/Cisco-cloud
-- https://github.com/Cisco-DCG-Power
 - https://github.com/Cisco-Meraki-CFG
 - https://github.com/Cisco-nam
 - https://github.com/Cisco-OCPChina
 - https://github.com/cisco-open-source
 - https://github.com/Cisco-oss-eng
-- https://github.com/Cisco-system-traffic-generator
-- https://github.com/Cisco-Talos
-- https://github.com/Cisco-TestScheduling
 - https://github.com/Cisco-USTC
-- https://github.com/Cisco001
-- https://github.com/CISCO9
-- https://github.com/CiscoCloud
 - https://github.com/Ciscocommerce
 - https://github.com/CiscoCTA
-- https://github.com/CiscoCXSecurity
-- https://github.com/CiscoDevNet
-- https://github.com/CiscoDevSeries
 - https://github.com/CiscoHackathon
-- https://github.com/CiscoIOx
 - https://github.com/CiscoKorea
 - https://github.com/CiscoPackagingExpress
-- https://github.com/ciscospark
-- https://github.com/Ciscosspg
-- https://github.com/Ciscosystem
-- https://github.com/CiscoSystems
 - https://github.com/CiscoSystems-Netconf
-- https://github.com/CiscoSystemsInc
-- https://github.com/CiscoTrainingonDemand
-- https://github.com/CiscoUcs
 - https://github.com/CiscoUKIDCDev
 - https://github.com/CiscoVE
 - https://github.com/CiscoVIRL
 - https://github.com/CiscoZeus
-- https://github.com/csap-platform
-- https://github.com/datacenter
-- https://github.com/jungo-home
-- https://github.com/LearningAtCisco
+
+### Archived
+
 - https://github.com/portcullislabs
-- https://github.com/vrtadmin
+
+### No public repositories
+
+- https://github.com/Cisco-china
+- https://github.com/Cisco-DCG-Power
+- https://github.com/Cisco-TestScheduling
+- https://github.com/Cisco001
+- https://github.com/CISCO9
+- https://github.com/CiscoDevSeries
+- https://github.com/Ciscosystem
+- https://github.com/CiscoSystemsInc
+- https://github.com/CiscoTrainingonDemand
+- https://github.com/LearningAtCisco
+
+### Private/deleted/no longer exists
+
+- https://github.com/Ciscosspg
+- https://github.com/jungo-home
 
 ## Development
 
