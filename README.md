@@ -8,6 +8,7 @@ Cisco GitHub organization in general.
 - [Don't See Your Project Here?](#dont-see-your-project-here)
 - [List of Cisco Organizations on GitHub](#list-of-cisco-organizations-on-github)
   - [Active](#active)
+  - [Open source](#open-source)
   - [Not recently updated](#not-recently-updated)
   - [Archived](#archived)
   - [No public repositories](#no-public-repositories)
@@ -42,7 +43,10 @@ To add a project to the organizations below please submit a pull request.
 
 ### Active
 
+- https://github.com/banzaicloud
 - https://github.com/Cisco
+- https://github.com/cisco-open
+- https://github.com/cisco-ospo
 - https://github.com/Cisco-system-traffic-generator
 - https://github.com/Cisco-Talos
 - https://github.com/CiscoCloud
@@ -54,6 +58,12 @@ To add a project to the organizations below please submit a pull request.
 - https://github.com/csap-platform
 - https://github.com/datacenter
 - https://github.com/webex
+
+### Open source
+
+- https://github.com/apiclarity
+- https://github.com/bit-broker
+- https://github.com/media-streaming-mesh
 
 ### Not recently updated
 
