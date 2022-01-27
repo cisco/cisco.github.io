@@ -53,12 +53,12 @@ To add a project to the organizations below please submit a pull request.
 - https://github.com/CiscoCXSecurity
 - https://github.com/CiscoDevNet
 - https://github.com/CiscoIOx
+- https://github.com/CiscoSE
 - https://github.com/CiscoSystems
 - https://github.com/CiscoUcs
 - https://github.com/csap-platform
 - https://github.com/datacenter
 - https://github.com/webex
-- https://github.com/CiscoSE
 
 ### Open source
 
